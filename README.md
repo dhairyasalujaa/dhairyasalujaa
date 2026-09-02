@@ -31,39 +31,9 @@ Outside of coding, I'm an amateur boxer.
 ```text
 Frontend       HTML • CSS • JavaScript • React
 Backend        Node.js • APIs • Databases
-Tools          Git • GitHub • VS Code • Vercel
+Tools          Git • GitHub • VS Code • Vercel • Figma
 Exploring      Software Engineering • Cybersecurity • AI
 ```
-
----
-
-## Selected Projects
-
-I'm using my GitHub to document what I build and what I learn along the way.
-
-### Project Name
-
-Short description of what the project does and, more importantly, what I learned while building it.
-
-`JavaScript` `React` `Node.js`
-
-[View Project →](PROJECT_URL)
-
-### Project Name
-
-Another project that demonstrates a different skill, such as working with an API, database, authentication, or a larger application architecture.
-
-`React` `Node.js` `API`
-
-[View Project →](PROJECT_URL)
-
-### Project Name
-
-A more ambitious project that shows how I approach solving a real problem.
-
-`Technology` `Technology` `Technology`
-
-[View Project →](PROJECT_URL)
 
 ---
 
@@ -103,10 +73,6 @@ This profile will probably look very different a few years from now.
 That's kind of the point.
 
 ---
-
-<p align="center">
-  <i>Build. Break. Understand. Improve.</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey" alt="Profile views" />
